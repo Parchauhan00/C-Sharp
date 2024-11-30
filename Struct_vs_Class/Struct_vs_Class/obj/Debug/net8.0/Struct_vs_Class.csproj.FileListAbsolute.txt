@@ -1,0 +1,14 @@
+C:\Users\Dapalpur\Documents\C Sharp Project\Struct_vs_Class\Struct_vs_Class\bin\Debug\net8.0\Struct_vs_Class.exe
+C:\Users\Dapalpur\Documents\C Sharp Project\Struct_vs_Class\Struct_vs_Class\bin\Debug\net8.0\Struct_vs_Class.deps.json
+C:\Users\Dapalpur\Documents\C Sharp Project\Struct_vs_Class\Struct_vs_Class\bin\Debug\net8.0\Struct_vs_Class.runtimeconfig.json
+C:\Users\Dapalpur\Documents\C Sharp Project\Struct_vs_Class\Struct_vs_Class\bin\Debug\net8.0\Struct_vs_Class.dll
+C:\Users\Dapalpur\Documents\C Sharp Project\Struct_vs_Class\Struct_vs_Class\bin\Debug\net8.0\Struct_vs_Class.pdb
+C:\Users\Dapalpur\Documents\C Sharp Project\Struct_vs_Class\Struct_vs_Class\obj\Debug\net8.0\Struct_vs_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dapalpur\Documents\C Sharp Project\Struct_vs_Class\Struct_vs_Class\obj\Debug\net8.0\Struct_vs_Class.AssemblyInfoInputs.cache
+C:\Users\Dapalpur\Documents\C Sharp Project\Struct_vs_Class\Struct_vs_Class\obj\Debug\net8.0\Struct_vs_Class.AssemblyInfo.cs
+C:\Users\Dapalpur\Documents\C Sharp Project\Struct_vs_Class\Struct_vs_Class\obj\Debug\net8.0\Struct_vs_Class.csproj.CoreCompileInputs.cache
+C:\Users\Dapalpur\Documents\C Sharp Project\Struct_vs_Class\Struct_vs_Class\obj\Debug\net8.0\Struct_vs_Class.dll
+C:\Users\Dapalpur\Documents\C Sharp Project\Struct_vs_Class\Struct_vs_Class\obj\Debug\net8.0\refint\Struct_vs_Class.dll
+C:\Users\Dapalpur\Documents\C Sharp Project\Struct_vs_Class\Struct_vs_Class\obj\Debug\net8.0\Struct_vs_Class.pdb
+C:\Users\Dapalpur\Documents\C Sharp Project\Struct_vs_Class\Struct_vs_Class\obj\Debug\net8.0\Struct_vs_Class.genruntimeconfig.cache
+C:\Users\Dapalpur\Documents\C Sharp Project\Struct_vs_Class\Struct_vs_Class\obj\Debug\net8.0\ref\Struct_vs_Class.dll

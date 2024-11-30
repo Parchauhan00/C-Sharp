@@ -1,0 +1,14 @@
+C:\Users\Dayalpur\Documents\C Sharp Project\OPPS\Abstraction\obj\Debug\net8.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dayalpur\Documents\C Sharp Project\OPPS\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfoInputs.cache
+C:\Users\Dayalpur\Documents\C Sharp Project\OPPS\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfo.cs
+C:\Users\Dayalpur\Documents\C Sharp Project\OPPS\Abstraction\obj\Debug\net8.0\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Dayalpur\Documents\C Sharp Project\OPPS\Abstraction\bin\Debug\net8.0\Abstraction.exe
+C:\Users\Dayalpur\Documents\C Sharp Project\OPPS\Abstraction\bin\Debug\net8.0\Abstraction.deps.json
+C:\Users\Dayalpur\Documents\C Sharp Project\OPPS\Abstraction\bin\Debug\net8.0\Abstraction.runtimeconfig.json
+C:\Users\Dayalpur\Documents\C Sharp Project\OPPS\Abstraction\bin\Debug\net8.0\Abstraction.dll
+C:\Users\Dayalpur\Documents\C Sharp Project\OPPS\Abstraction\bin\Debug\net8.0\Abstraction.pdb
+C:\Users\Dayalpur\Documents\C Sharp Project\OPPS\Abstraction\obj\Debug\net8.0\Abstraction.dll
+C:\Users\Dayalpur\Documents\C Sharp Project\OPPS\Abstraction\obj\Debug\net8.0\refint\Abstraction.dll
+C:\Users\Dayalpur\Documents\C Sharp Project\OPPS\Abstraction\obj\Debug\net8.0\Abstraction.pdb
+C:\Users\Dayalpur\Documents\C Sharp Project\OPPS\Abstraction\obj\Debug\net8.0\Abstraction.genruntimeconfig.cache
+C:\Users\Dayalpur\Documents\C Sharp Project\OPPS\Abstraction\obj\Debug\net8.0\ref\Abstraction.dll

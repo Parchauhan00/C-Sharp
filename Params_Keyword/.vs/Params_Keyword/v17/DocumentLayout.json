@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dapalpur\\Documents\\C Sharp Project\\Params_Keyword\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8B9360-652A-4F09-B06B-4149D04B3A78}|Params_Keyword\\Params_Keyword.csproj|c:\\users\\dapalpur\\documents\\c sharp project\\params_keyword\\params_keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8B9360-652A-4F09-B06B-4149D04B3A78}|Params_Keyword\\Params_Keyword.csproj|solutionrelative:params_keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dapalpur\\Documents\\C Sharp Project\\Params_Keyword\\Params_Keyword\\Program.cs",
+              "RelativeDocumentMoniker": "Params_Keyword\\Program.cs",
+              "ToolTip": "C:\\Users\\Dapalpur\\Documents\\C Sharp Project\\Params_Keyword\\Params_Keyword\\Program.cs",
+              "RelativeToolTip": "Params_Keyword\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T10:14:16.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

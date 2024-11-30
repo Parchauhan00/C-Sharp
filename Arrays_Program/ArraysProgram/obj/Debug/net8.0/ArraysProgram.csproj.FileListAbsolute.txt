@@ -1,0 +1,14 @@
+C:\Users\Dayalpur\Documents\C Sharp Project\Arrays_Program\ArraysProgram\bin\Debug\net8.0\ArraysProgram.exe
+C:\Users\Dayalpur\Documents\C Sharp Project\Arrays_Program\ArraysProgram\bin\Debug\net8.0\ArraysProgram.deps.json
+C:\Users\Dayalpur\Documents\C Sharp Project\Arrays_Program\ArraysProgram\bin\Debug\net8.0\ArraysProgram.runtimeconfig.json
+C:\Users\Dayalpur\Documents\C Sharp Project\Arrays_Program\ArraysProgram\bin\Debug\net8.0\ArraysProgram.dll
+C:\Users\Dayalpur\Documents\C Sharp Project\Arrays_Program\ArraysProgram\bin\Debug\net8.0\ArraysProgram.pdb
+C:\Users\Dayalpur\Documents\C Sharp Project\Arrays_Program\ArraysProgram\obj\Debug\net8.0\ArraysProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dayalpur\Documents\C Sharp Project\Arrays_Program\ArraysProgram\obj\Debug\net8.0\ArraysProgram.AssemblyInfoInputs.cache
+C:\Users\Dayalpur\Documents\C Sharp Project\Arrays_Program\ArraysProgram\obj\Debug\net8.0\ArraysProgram.AssemblyInfo.cs
+C:\Users\Dayalpur\Documents\C Sharp Project\Arrays_Program\ArraysProgram\obj\Debug\net8.0\ArraysProgram.csproj.CoreCompileInputs.cache
+C:\Users\Dayalpur\Documents\C Sharp Project\Arrays_Program\ArraysProgram\obj\Debug\net8.0\ArraysProgram.dll
+C:\Users\Dayalpur\Documents\C Sharp Project\Arrays_Program\ArraysProgram\obj\Debug\net8.0\refint\ArraysProgram.dll
+C:\Users\Dayalpur\Documents\C Sharp Project\Arrays_Program\ArraysProgram\obj\Debug\net8.0\ArraysProgram.pdb
+C:\Users\Dayalpur\Documents\C Sharp Project\Arrays_Program\ArraysProgram\obj\Debug\net8.0\ArraysProgram.genruntimeconfig.cache
+C:\Users\Dayalpur\Documents\C Sharp Project\Arrays_Program\ArraysProgram\obj\Debug\net8.0\ref\ArraysProgram.dll

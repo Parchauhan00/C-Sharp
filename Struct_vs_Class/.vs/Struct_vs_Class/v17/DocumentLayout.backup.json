@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dapalpur\\Documents\\C Sharp Project\\Struct_vs_Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8D6234-A3F8-4830-B6F5-FB7F138C3D37}|Struct_vs_Class\\Struct_vs_Class.csproj|c:\\users\\dapalpur\\documents\\c sharp project\\struct_vs_class\\struct_vs_class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8D6234-A3F8-4830-B6F5-FB7F138C3D37}|Struct_vs_Class\\Struct_vs_Class.csproj|solutionrelative:struct_vs_class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dapalpur\\Documents\\C Sharp Project\\Struct_vs_Class\\Struct_vs_Class\\Program.cs",
+              "RelativeDocumentMoniker": "Struct_vs_Class\\Program.cs",
+              "ToolTip": "C:\\Users\\Dapalpur\\Documents\\C Sharp Project\\Struct_vs_Class\\Struct_vs_Class\\Program.cs*",
+              "RelativeToolTip": "Struct_vs_Class\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T13:10:36.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

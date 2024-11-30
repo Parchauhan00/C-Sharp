@@ -1,0 +1,14 @@
+C:\Users\Dapalpur\Documents\C Sharp Project\Is_vs_As_Keyword\Is_vs_As_Keyword\bin\Debug\net8.0\Is_vs_As_Keyword.exe
+C:\Users\Dapalpur\Documents\C Sharp Project\Is_vs_As_Keyword\Is_vs_As_Keyword\bin\Debug\net8.0\Is_vs_As_Keyword.deps.json
+C:\Users\Dapalpur\Documents\C Sharp Project\Is_vs_As_Keyword\Is_vs_As_Keyword\bin\Debug\net8.0\Is_vs_As_Keyword.runtimeconfig.json
+C:\Users\Dapalpur\Documents\C Sharp Project\Is_vs_As_Keyword\Is_vs_As_Keyword\bin\Debug\net8.0\Is_vs_As_Keyword.dll
+C:\Users\Dapalpur\Documents\C Sharp Project\Is_vs_As_Keyword\Is_vs_As_Keyword\bin\Debug\net8.0\Is_vs_As_Keyword.pdb
+C:\Users\Dapalpur\Documents\C Sharp Project\Is_vs_As_Keyword\Is_vs_As_Keyword\obj\Debug\net8.0\Is_vs_As_Keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dapalpur\Documents\C Sharp Project\Is_vs_As_Keyword\Is_vs_As_Keyword\obj\Debug\net8.0\Is_vs_As_Keyword.AssemblyInfoInputs.cache
+C:\Users\Dapalpur\Documents\C Sharp Project\Is_vs_As_Keyword\Is_vs_As_Keyword\obj\Debug\net8.0\Is_vs_As_Keyword.AssemblyInfo.cs
+C:\Users\Dapalpur\Documents\C Sharp Project\Is_vs_As_Keyword\Is_vs_As_Keyword\obj\Debug\net8.0\Is_vs_As_Keyword.csproj.CoreCompileInputs.cache
+C:\Users\Dapalpur\Documents\C Sharp Project\Is_vs_As_Keyword\Is_vs_As_Keyword\obj\Debug\net8.0\Is_vs_As_Keyword.dll
+C:\Users\Dapalpur\Documents\C Sharp Project\Is_vs_As_Keyword\Is_vs_As_Keyword\obj\Debug\net8.0\refint\Is_vs_As_Keyword.dll
+C:\Users\Dapalpur\Documents\C Sharp Project\Is_vs_As_Keyword\Is_vs_As_Keyword\obj\Debug\net8.0\Is_vs_As_Keyword.pdb
+C:\Users\Dapalpur\Documents\C Sharp Project\Is_vs_As_Keyword\Is_vs_As_Keyword\obj\Debug\net8.0\Is_vs_As_Keyword.genruntimeconfig.cache
+C:\Users\Dapalpur\Documents\C Sharp Project\Is_vs_As_Keyword\Is_vs_As_Keyword\obj\Debug\net8.0\ref\Is_vs_As_Keyword.dll

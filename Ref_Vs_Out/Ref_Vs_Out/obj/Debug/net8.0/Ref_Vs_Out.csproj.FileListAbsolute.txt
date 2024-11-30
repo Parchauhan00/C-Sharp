@@ -1,0 +1,14 @@
+C:\Users\Dapalpur\Documents\C Sharp Project\Ref_Vs_Out\Ref_Vs_Out\bin\Debug\net8.0\Ref_Vs_Out.exe
+C:\Users\Dapalpur\Documents\C Sharp Project\Ref_Vs_Out\Ref_Vs_Out\bin\Debug\net8.0\Ref_Vs_Out.deps.json
+C:\Users\Dapalpur\Documents\C Sharp Project\Ref_Vs_Out\Ref_Vs_Out\bin\Debug\net8.0\Ref_Vs_Out.runtimeconfig.json
+C:\Users\Dapalpur\Documents\C Sharp Project\Ref_Vs_Out\Ref_Vs_Out\bin\Debug\net8.0\Ref_Vs_Out.dll
+C:\Users\Dapalpur\Documents\C Sharp Project\Ref_Vs_Out\Ref_Vs_Out\bin\Debug\net8.0\Ref_Vs_Out.pdb
+C:\Users\Dapalpur\Documents\C Sharp Project\Ref_Vs_Out\Ref_Vs_Out\obj\Debug\net8.0\Ref_Vs_Out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dapalpur\Documents\C Sharp Project\Ref_Vs_Out\Ref_Vs_Out\obj\Debug\net8.0\Ref_Vs_Out.AssemblyInfoInputs.cache
+C:\Users\Dapalpur\Documents\C Sharp Project\Ref_Vs_Out\Ref_Vs_Out\obj\Debug\net8.0\Ref_Vs_Out.AssemblyInfo.cs
+C:\Users\Dapalpur\Documents\C Sharp Project\Ref_Vs_Out\Ref_Vs_Out\obj\Debug\net8.0\Ref_Vs_Out.csproj.CoreCompileInputs.cache
+C:\Users\Dapalpur\Documents\C Sharp Project\Ref_Vs_Out\Ref_Vs_Out\obj\Debug\net8.0\Ref_Vs_Out.dll
+C:\Users\Dapalpur\Documents\C Sharp Project\Ref_Vs_Out\Ref_Vs_Out\obj\Debug\net8.0\refint\Ref_Vs_Out.dll
+C:\Users\Dapalpur\Documents\C Sharp Project\Ref_Vs_Out\Ref_Vs_Out\obj\Debug\net8.0\Ref_Vs_Out.pdb
+C:\Users\Dapalpur\Documents\C Sharp Project\Ref_Vs_Out\Ref_Vs_Out\obj\Debug\net8.0\Ref_Vs_Out.genruntimeconfig.cache
+C:\Users\Dapalpur\Documents\C Sharp Project\Ref_Vs_Out\Ref_Vs_Out\obj\Debug\net8.0\ref\Ref_Vs_Out.dll
