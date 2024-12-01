@@ -1,0 +1,15 @@
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\Constructor_Injection\Constructor_Injection\bin\Debug\net8.0\Constructor_Injection.exe
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\Constructor_Injection\Constructor_Injection\bin\Debug\net8.0\Constructor_Injection.deps.json
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\Constructor_Injection\Constructor_Injection\bin\Debug\net8.0\Constructor_Injection.runtimeconfig.json
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\Constructor_Injection\Constructor_Injection\bin\Debug\net8.0\Constructor_Injection.dll
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\Constructor_Injection\Constructor_Injection\bin\Debug\net8.0\Constructor_Injection.pdb
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\Constructor_Injection\Constructor_Injection\obj\Debug\net8.0\Constructor_Injection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\Constructor_Injection\Constructor_Injection\obj\Debug\net8.0\Constructor_Injection.AssemblyInfoInputs.cache
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\Constructor_Injection\Constructor_Injection\obj\Debug\net8.0\Constructor_Injection.AssemblyInfo.cs
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\Constructor_Injection\Constructor_Injection\obj\Debug\net8.0\Constructor_Injection.csproj.CoreCompileInputs.cache
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\Constructor_Injection\Constructor_Injection\obj\Debug\net8.0\Constructor_Injection.sourcelink.json
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\Constructor_Injection\Constructor_Injection\obj\Debug\net8.0\Constructor_Injection.dll
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\Constructor_Injection\Constructor_Injection\obj\Debug\net8.0\refint\Constructor_Injection.dll
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\Constructor_Injection\Constructor_Injection\obj\Debug\net8.0\Constructor_Injection.pdb
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\Constructor_Injection\Constructor_Injection\obj\Debug\net8.0\Constructor_Injection.genruntimeconfig.cache
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\Constructor_Injection\Constructor_Injection\obj\Debug\net8.0\ref\Constructor_Injection.dll
