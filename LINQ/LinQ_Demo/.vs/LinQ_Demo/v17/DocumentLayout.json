@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dayalpur\\Documents\\C sharp git\\C-Sharp\\LINQ\\LinQ_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C04BA9B-3E43-4654-B026-9AC960186FCA}|LinQ_Demo\\LinQ_Demo.csproj|c:\\users\\dayalpur\\documents\\c sharp git\\c-sharp\\linq\\linq_demo\\linq_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C04BA9B-3E43-4654-B026-9AC960186FCA}|LinQ_Demo\\LinQ_Demo.csproj|solutionrelative:linq_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dayalpur\\Documents\\C sharp git\\C-Sharp\\LINQ\\LinQ_Demo\\LinQ_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "LinQ_Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\Dayalpur\\Documents\\C sharp git\\C-Sharp\\LINQ\\LinQ_Demo\\LinQ_Demo\\Program.cs",
+              "RelativeToolTip": "LinQ_Demo\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:08:51.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Params_Keyword")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9eb7c4b5020fb44f61a73640c1bc83478f54c0d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Params_Keyword")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Params_Keyword")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

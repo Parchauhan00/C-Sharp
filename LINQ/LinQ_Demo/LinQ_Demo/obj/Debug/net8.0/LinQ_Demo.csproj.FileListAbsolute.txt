@@ -1,0 +1,15 @@
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\LINQ\LinQ_Demo\LinQ_Demo\bin\Debug\net8.0\LinQ_Demo.exe
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\LINQ\LinQ_Demo\LinQ_Demo\bin\Debug\net8.0\LinQ_Demo.deps.json
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\LINQ\LinQ_Demo\LinQ_Demo\bin\Debug\net8.0\LinQ_Demo.runtimeconfig.json
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\LINQ\LinQ_Demo\LinQ_Demo\bin\Debug\net8.0\LinQ_Demo.dll
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\LINQ\LinQ_Demo\LinQ_Demo\bin\Debug\net8.0\LinQ_Demo.pdb
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\LINQ\LinQ_Demo\LinQ_Demo\obj\Debug\net8.0\LinQ_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\LINQ\LinQ_Demo\LinQ_Demo\obj\Debug\net8.0\LinQ_Demo.AssemblyInfoInputs.cache
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\LINQ\LinQ_Demo\LinQ_Demo\obj\Debug\net8.0\LinQ_Demo.AssemblyInfo.cs
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\LINQ\LinQ_Demo\LinQ_Demo\obj\Debug\net8.0\LinQ_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\LINQ\LinQ_Demo\LinQ_Demo\obj\Debug\net8.0\LinQ_Demo.sourcelink.json
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\LINQ\LinQ_Demo\LinQ_Demo\obj\Debug\net8.0\LinQ_Demo.dll
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\LINQ\LinQ_Demo\LinQ_Demo\obj\Debug\net8.0\refint\LinQ_Demo.dll
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\LINQ\LinQ_Demo\LinQ_Demo\obj\Debug\net8.0\LinQ_Demo.pdb
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\LINQ\LinQ_Demo\LinQ_Demo\obj\Debug\net8.0\LinQ_Demo.genruntimeconfig.cache
+C:\Users\Dayalpur\Documents\C sharp git\C-Sharp\LINQ\LinQ_Demo\LinQ_Demo\obj\Debug\net8.0\ref\LinQ_Demo.dll
