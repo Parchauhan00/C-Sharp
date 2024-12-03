@@ -1,0 +1,14 @@
+C:\Users\Prashant Chauhan\Documents\C Sharp\L2Array\ARRay\bin\Debug\net8.0\ARRay.exe
+C:\Users\Prashant Chauhan\Documents\C Sharp\L2Array\ARRay\bin\Debug\net8.0\ARRay.deps.json
+C:\Users\Prashant Chauhan\Documents\C Sharp\L2Array\ARRay\bin\Debug\net8.0\ARRay.runtimeconfig.json
+C:\Users\Prashant Chauhan\Documents\C Sharp\L2Array\ARRay\bin\Debug\net8.0\ARRay.dll
+C:\Users\Prashant Chauhan\Documents\C Sharp\L2Array\ARRay\bin\Debug\net8.0\ARRay.pdb
+C:\Users\Prashant Chauhan\Documents\C Sharp\L2Array\ARRay\obj\Debug\net8.0\ARRay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashant Chauhan\Documents\C Sharp\L2Array\ARRay\obj\Debug\net8.0\ARRay.AssemblyInfoInputs.cache
+C:\Users\Prashant Chauhan\Documents\C Sharp\L2Array\ARRay\obj\Debug\net8.0\ARRay.AssemblyInfo.cs
+C:\Users\Prashant Chauhan\Documents\C Sharp\L2Array\ARRay\obj\Debug\net8.0\ARRay.csproj.CoreCompileInputs.cache
+C:\Users\Prashant Chauhan\Documents\C Sharp\L2Array\ARRay\obj\Debug\net8.0\ARRay.dll
+C:\Users\Prashant Chauhan\Documents\C Sharp\L2Array\ARRay\obj\Debug\net8.0\refint\ARRay.dll
+C:\Users\Prashant Chauhan\Documents\C Sharp\L2Array\ARRay\obj\Debug\net8.0\ARRay.pdb
+C:\Users\Prashant Chauhan\Documents\C Sharp\L2Array\ARRay\obj\Debug\net8.0\ARRay.genruntimeconfig.cache
+C:\Users\Prashant Chauhan\Documents\C Sharp\L2Array\ARRay\obj\Debug\net8.0\ref\ARRay.dll
